@@ -6,7 +6,7 @@
   water_line_compatible: Boolean
 }
 
-//coffee pods
+//Coffee pods
 {
   _id: String,
   product_type: String,

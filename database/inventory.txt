@@ -1,4 +1,5 @@
-//coffee machines
+//Coffee machines
+
 {
   _id: 'CM001',
     product_type: 'COFFEE_MACHINE_SMALL',
@@ -59,7 +60,10 @@
 
 
 
+
+
 //Coffee pods
+
 {
   _id: 'CP001',
     product_type: 'COFFEE_POD_SMALL',
