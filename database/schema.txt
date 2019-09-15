@@ -10,6 +10,6 @@
 {
   _id: String,
   product_type: String,
-  coffe_flavor: String,
+  coffee_flavor: String,
   pack_size: String
 }
