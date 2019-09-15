@@ -1,7 +1,7 @@
 # coffee-filter
 
 Backend Challenge
-Time spent: 6 -7 hours
+Time spent: 7 -8 hours
 
 ### Installing Dependencies
 
@@ -16,6 +16,7 @@ npm install
 
 1) `npm start` to start server
 
-2) requests were tested with data from ./database/inventory.txt
+2) `npm run seed` to populate mongo with test data from ./database/inventory.js
+
 
 
