@@ -1,0 +1,15 @@
+// Coffee machines
+{
+  _id: String,
+  product_type: String,
+  model_type: String,
+  water_line_compatible: Boolean
+}
+
+//coffee pods
+{
+  _id: String,
+  product_type: String,
+  coffe_flavor: String,
+  pack_size: String
+}
